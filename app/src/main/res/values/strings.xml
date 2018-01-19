@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Widgets_Prabheesh</string>
+
+
+    <string-array name="country">
+        <item>india</item>
+        <item>pakistan</item>
+        <item>bangladesh</item>
+ </string-array>
+
+</resources>
